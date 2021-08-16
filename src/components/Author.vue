@@ -1,14 +1,14 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/981E4386-8142-463C-BF35-CEA796AB6C2E.jpeg" width="180" height="180" blur="5" />
+		<g-image alt="Author image" class="author__image" src="https://sasukebot.ml/public/img/logo.png" width="180" height="180" blur="5" />
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metadata.siteName }}
 		</h1>
 
 		<p class="author__intro">
-			Here you can find Official Updates from the Infinity Bot List Staff and Development Team.
+			Here you can find Official Updates from the Sasuke Bot Staff and Development Team.
 		</p>
 
 		<p class="author__links">
