@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Infinity Bot List Blog',
-  siteDescription: 'Official Blog Site for the Infinity Bot List project.',
+  siteName: 'Sasuke Bot Blog',
+  siteDescription: 'Official Blog Site for the Sasuke Bot project.',
 
   templates: {
     Post: '/:title',
