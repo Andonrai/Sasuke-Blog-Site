@@ -44,7 +44,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Home | '
+    title: 'Home '
   }
 }
 </script>
