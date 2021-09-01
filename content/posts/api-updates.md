@@ -2,7 +2,7 @@
 title: API and NPM Updates
 date: 2021-05-24
 published: true
-tags: ['Infinity Bots', 'API', 'Updates', 'NPM Module']
+tags: ['Sasuke Bot', 'Updates']
 series: false
 cover_image: ./images/4E360AF5-121E-4012-A4DC-58AEB9C65EE3.png
 canonical_url: false
