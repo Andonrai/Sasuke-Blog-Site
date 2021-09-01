@@ -1,6 +1,6 @@
 ---
-title: API and NPM Updates
-date: 2021-05-24
+title: Slash Commads Updates
+date: 2021-08-10
 published: true
 tags: ['Sasuke Bot', 'Updates']
 series: false
