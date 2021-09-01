@@ -1,18 +1,18 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="https://sasukebot.ml/public/img/logo.png" width="180" height="180" blur="5" />
+		<g-image alt="Author image" class="author__image" src="https://blog.sasukebot.ml/assets/static/favicon.7b22250.4b12e93ec06b334cdaf96fa6811faff8.png" width="180" height="180" blur="5" />
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metadata.siteName }}
 		</h1>
 
 		<p class="author__intro">
-			Here you can find Official Updates from the Sasuke Bot Staff and Development Team.
+			Here you can find Official Updates from the Sasuke Bot Development Team.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/InfinityBotList">Follow us on Twitter</a>
+			<a href="//twitter.com/InfinityBotList">Status</a>
 			<a href="//github.com/InfinityBotList">GitHub</a>
                         <a href="//infinitybotlist.com/discord">Discord</a>
 		</p>
