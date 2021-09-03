@@ -11,10 +11,9 @@ author: "!!Josue#3820 - Developer"
 author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304d5dbb6cfe05fcdbcea84.webp?size=1024
 ---
 
-Recent Updates and Changelog
+## v2.5.7 patch | 2021-09-02
 
-Over the past few days we have published a few API changes that may or may not effect our Users and or their Bots,
-A list of Changes can be found below for those of you who are interested in what has and has not changed.
+This Change has been applied due to changes that have occurred and are about to occur in the Discord api and also due to the new Functions granted by discord to the Bots
 
 ---
 
