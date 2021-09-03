@@ -14,23 +14,16 @@ author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304
 ## v2.5.7 patch | 2021-09-02
 
 - This Change has been applied due to changes that have occurred and are about to occur in the Discord api and also due to the new Functions granted by discord to the Bots.
+- `Note:` It should be clarified that not all the commands have been implemented
 
 ---
 
 ## Slash Commands
 - Thanks to the Slash commands, the cooldowns are over.
 
-# The Action category has been created: 
-- New Commands: `slap`, `kiss`, `hug`
-- Updated the POST method errors to show a `400 (Client Error)` or `401 (Unauthorized)` for null, undefined, or invalid Auth Token
+- Action category: `slap`, `kiss`, `hug`. ``[New]``
+- Information category: `userinfo`, `avatar`. `[Updated]`
 
-# Minor Changes
-- Begin support and implementation of a `All Approved Bots` route for the Infinity Bots API
-
-# NPM Changes
-- Updated and Cleaned up the NPM Module.
-- Implememt a `GET` bot method.
-- Implement a `GET` user method.
 
 ---
 
