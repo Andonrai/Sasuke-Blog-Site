@@ -29,6 +29,10 @@ author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304
 
 - `Note:` The Economy category will have a separate update as it will become the main Bot system and a separate explanation is required.
 
+# Permissions
+
+- For the forward slash commands to work correctly you must reinvite the bot with the following Link: https://discord.com/oauth2/authorize?client_id=629470421724561408&scope=bot+applications.commands&permissions=285599830
+
 ---
 
 
