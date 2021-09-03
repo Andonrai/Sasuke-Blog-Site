@@ -4,7 +4,7 @@ date: 2021-09-02
 published: true
 tags: ['Sasuke Bot', 'Updates', 'Slash']
 series: false
-cover_image: ./images/4E360AF5-121E-4012-A4DC-58AEB9C65EE3.png
+cover_image: ./images/slash_commands.png
 canonical_url: false
 description: "Updating sasuke commands to slash commands!"
 author: "!!Josue#3820 - Developer"
