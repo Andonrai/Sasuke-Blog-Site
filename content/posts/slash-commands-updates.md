@@ -1,14 +1,14 @@
 ---
 title: Slash Commads Updates
-date: 2021-08-10
+date: 2021-09-02
 published: true
-tags: ['Sasuke Bot', 'Updates']
+tags: ['Sasuke Bot', 'Updates', 'Slash']
 series: false
 cover_image: ./images/4E360AF5-121E-4012-A4DC-58AEB9C65EE3.png
 canonical_url: false
-description: "Updates Regarding the Infinity Bots API and NPM Module"
-author: "Toxic Dev - Lead Developer"
-author_image: ./images/ToxicGif2.gif
+description: "Updating sasuke commands to slash commands!"
+author: "!!Josue#3820 - Developer"
+author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304d5dbb6cfe05fcdbcea84.webp?size=1024
 ---
 
 Recent Updates and Changelog
