@@ -21,9 +21,13 @@ author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304
 ## Slash Commands
 - Thanks to the Slash commands, the cooldowns are over.
 
-- Action category: `slap`, `kiss`, `hug`. ``[New]``
+- Action category: `slap`, `kiss`, `hug`. `[New]`
 - Information category: `userinfo`, `avatar`. `[Updated]`
+- Utility category: `calculator`. `[New]`
+- Core category: `shards`, `ping`, `support`, `help`. `[New and Updated]`
+- Anime category: `anime`. `[New]`
 
+- `Note:` The Economy category will have a separate update as it will become the main Bot system and a separate explanation is required.
 
 ---
 
