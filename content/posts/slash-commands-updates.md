@@ -11,7 +11,7 @@ author: "!!Josue#3820 - Developer"
 author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304d5dbb6cfe05fcdbcea84.webp?size=1024
 ---
 
-## v2.5.7 patch | 2021-09-02
+## v3.0.0 patch | 2021-09-02
 
 - This Change has been applied due to changes that have occurred and are about to occur in the Discord api and also due to the new Functions granted by discord to the Bots.
 - `Note:` It should be clarified that not all the commands have been implemented
