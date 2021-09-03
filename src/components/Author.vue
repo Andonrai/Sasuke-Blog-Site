@@ -12,9 +12,9 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/InfinityBotList">Status</a>
-			<a href="//github.com/InfinityBotList">GitHub</a>
-                        <a href="//infinitybotlist.com/discord">Discord</a>
+			<a href="https://sasubot.statuspage.io/">Status</a>
+			<a href="https://github.com/Josue284">GitHub</a>
+                        <a href="https://discord.com/oauth2/authorize?client_id=629470421724561408&scope=bot+applications.commands&permissions=285599830">Invite</a>
 		</p>
 
 	</div>
