@@ -13,6 +13,8 @@ author_image: https://cdn.discordapp.com/avatars/577205997748092939/3e90059aa304
 
 ## v4.0.0 patch | 2021-09-02
 
+![mine](https://cdn.discordapp.com/attachments/686701684235305012/896563209274814504/Screenshot_26.png)
+
 - This Change has been applied due to changes that have occurred and are about to occur in the Discord api and also due to the new Functions granted by discord to the Bots.
 - `Note:` It should be clarified that not all the commands have been implemented
 
