@@ -51,7 +51,6 @@ export default {
   }
 }
 </script>
-<script>console.log(this.$page.post)</script>
 
 <page-query>
 query Post ($id: ID!) {
