@@ -5,7 +5,7 @@ published: true
 tags: ['Sasuke Bot', 'Updates', 'Economy', 'v4']
 series: false
 cover_image: ./images/economy_update_4.png
-banner: /images/economy_update_4.png
+banner: https://blog.sasukebot.ml/assets/static/economy_update_4.07cc2b7.0163b4b839ec73a8b1d006314783cd06.png
 canonical_url: false
 description: "Updating sasuke commands to slash commands!"
 author: "!!Josue#3820 - Developer"
