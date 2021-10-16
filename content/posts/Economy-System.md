@@ -1,10 +1,10 @@
 ---
-title: Economy System
+title: Economy Update
 date: 2021-10-09
 published: true
 tags: ['Sasuke Bot', 'Updates', 'Economy', 'v4']
 series: false
-cover_image: ./images/banner_shop.gif
+cover_image: ./images/economy_update_4.png
 canonical_url: false
 description: "Updating sasuke commands to slash commands!"
 author: "!!Josue#3820 - Developer"
