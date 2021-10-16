@@ -45,7 +45,7 @@ export default {
       title: this.$page.post.title,
       meta: [
         { name: 'description', content: this.$page.post.description },
-        { name: 'twitter:image', content: this.$page.post }
+        { name: 'twitter:image', content: this.$page.post.banner }
       ]
     }
   }
@@ -67,6 +67,7 @@ query Post ($id: ID!) {
     description
     content
     cover_image (width: 860, blur: 10)
+    banner
   }
 }
 </page-query>
