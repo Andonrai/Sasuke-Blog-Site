@@ -45,7 +45,11 @@ export default {
       title: this.$page.post.title,
       meta: [
         { name: 'description', content: this.$page.post.description },
-        { name: 'twitter:image', content: this.$page.post.banner }
+        { name: 'twitter:image', content: this.$page.post.banner },
+        { rel: 'icon', content: this.$page.post.banner, type: 'image/x-icon' },
+        { rel: 'shortcut icon', content: this.$page.post.banner, type: 'image/x-icon' },
+        { name: 'theme-color', content: this.$page.post.banner },
+        { name: 'icon', content: this.$page.post.banner },
       ]
     }
   }
