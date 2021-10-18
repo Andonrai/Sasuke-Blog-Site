@@ -46,7 +46,7 @@ export default {
       meta: [
         { name: 'description', content: this.$page.post.description },
         { name: 'twitter:image', content: this.$page.post.banner },
-        { name: 'theme-color', content: this.$page.post.banner }
+        { name: 'theme-color', content: '#17a167' }
       ],
       link: [
       { rel: 'icon', href: 'https://blog.sasukebot.ml/assets/static/favicon.7b22250.4b12e93ec06b334cdaf96fa6811faff8.png', type: 'image/x-icon' },
