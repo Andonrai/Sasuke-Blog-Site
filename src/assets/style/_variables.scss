@@ -8,8 +8,8 @@ body {
  	--bg-color: #ffffff;
  	--bg-content-color: #DCDCDC;
  	--bg-code: #17a167;
- 	--body-color: #16151d;
- 	--title-color: #16151d;
+ 	--body-color: #1c1d22;
+ 	--title-color: #1c1d22;
  	--link-color: #17a167;
  	--border-color:  rgba(0,0,0,.1);;
         --space: 3.5rem;
@@ -32,7 +32,7 @@ body {
 
 // Override variables for Dark theme
 body[data-theme="dark"] {
- 	--bg-color: #16151d;
+ 	--bg-color: #1c1d22;
  	--bg-content-color: #2C2F33;
  	--bg-code: #17a167;
  	--border-color:  rgba(255,255,255,.1);;
